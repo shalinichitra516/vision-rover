@@ -49,7 +49,7 @@ The robot moves forward using four DC motors. The sensor continuously checks whe
 
 **![image1](blockdiagram.png)**
 
-**![][image2]**  
+**![image2](schematic.jpeg)**  
 **Input and Output**
 
 Input:  
