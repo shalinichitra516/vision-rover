@@ -257,7 +257,7 @@ void stopRover() {
 
 The Obstacle Avoiding Robot Using Arduino was successfully designed to move automatically and avoid obstacles. The robot normally moves forward and, when an obstacle is detected, it changes its direction using the four DC motors.
 
-![][image3]
+![image3](projectfinal.jpg)
 
 **Conclusion**
 
