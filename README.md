@@ -47,7 +47,7 @@ The robot moves forward using four DC motors. The sensor continuously checks whe
 * The robot moves forward normally.  
 * When an obstacle is detected, the robot changes its direction and continues moving.
 
-**![][image1]**
+**![image1](blockdiagram.png)**
 
 **![][image2]**  
 **Input and Output**
